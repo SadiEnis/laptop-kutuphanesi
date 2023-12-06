@@ -1,0 +1,16 @@
+Laptop Kütüphanesi
+	Computer - sınıf
+		İstenilen özellikler ortak olarak yazılmmalı
+		4 ayrı marka için Computer'tan türetilmiş markalar olmalı.
+		Her bilgisayar ortak olarak disk eklenebilir özellikte olmalı
+	Contents - static sınıf
+		Menü tasarlanmalı - UserFriendly olmalı
+		Bilgisayar ekleme işlevi
+		Detay gösterme işlevi
+		Fiyat hesabı işlevi
+	Program
+		Tüm bilgisayarlar generic listesi
+		Menü gözden geçirilmeli
+		.
+		.
+		.
